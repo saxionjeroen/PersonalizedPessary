@@ -1,0 +1,6 @@
+C:\Users\Jeroe\source\repos\Personalized Pessary\Personalized Pessary\obj\Debug\Personalized Pessary.csprojAssemblyReference.cache
+C:\Users\Jeroe\source\repos\Personalized Pessary\Personalized Pessary\obj\Debug\Personalized Pessary.csproj.CoreCompileInputs.cache
+C:\Users\Jeroe\source\repos\Personalized Pessary\Personalized Pessary\bin\Personalized Pessary.dll
+C:\Users\Jeroe\source\repos\Personalized Pessary\Personalized Pessary\bin\Personalized Pessary.pdb
+C:\Users\Jeroe\source\repos\Personalized Pessary\Personalized Pessary\obj\Debug\Personalized Pessary.dll
+C:\Users\Jeroe\source\repos\Personalized Pessary\Personalized Pessary\obj\Debug\Personalized Pessary.pdb
